@@ -1,2 +1,3 @@
-# git_upload_files
 # git_upload
+
+というリポジトリを作って何かをやるやつ
